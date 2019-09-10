@@ -1,4 +1,4 @@
-# linux-key-value
+# linux key-value
 Key value persistent storage as Linux kernel module
 
 Group project in a university. Made with Erik Ramos and Harendarczyk Bastien.
